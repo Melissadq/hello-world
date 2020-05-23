@@ -4,7 +4,7 @@
 ##### Melissa Dias Queiroz
 
 O Conteúdo presente no portal BBC traz em 10 gráficos um panorama geral da [situação enfrentada por nosso país diante da pandemia do Coronavírus.](https://www.bbc.com/portuguese/brasil-52595760)
-A matéria aborda aspectos bastante relevantes como a evolução crescente do número de casos da doença, análises comparativas com cenários internacionais, detalhamentos entre alguns Estados e ainda discute os impactos de medidas de distanciamento social. Além disso, destaca-se que a abordagem não representa um retrato exato da realidade, que se mostra ainda mais complexa, tendo em vista a escassez de testes laboratoriais e as subnotificações dos casos, por exemplo. 
+A matéria aborda aspectos bastante relevantes como a evolução crescente do número de casos da doença, análises comparativas com cenários internacionais, detalhamentos entre alguns Estados brasileiros e ainda discute os impactos de medidas de distanciamento social. Além disso, destaca-se que a abordagem não representa um retrato exato da realidade, que se mostra ainda mais complexa, tendo em vista a escassez de testes laboratoriais e as subnotificações dos casos, por exemplo. 
 
 Para além do conteúdo, também é muito interessante observar nesse estudo:
 - Gráficos de fácil visualização das análises;
